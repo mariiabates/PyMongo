@@ -1,0 +1,279 @@
+
+1.
+Which party got fewest votes in the “putney” constituency?
+eco
+
+2.
+Which constituencies had both a Labour party (“lab”) candidate and an Ecology party (“eco”) candidate?
+{'area': 'ogmore', 'total_votes': 24551}
+{'area': 'birkenhead', 'total_votes': 23586}
+{'area': 'leicester south', 'total_votes': 21912}
+{'area': 'batley and spen', 'total_votes': 21056}
+{'area': 'pontypridd', 'total_votes': 20637}
+{'area': 'dundee west', 'total_votes': 20590}
+{'area': 'tooting', 'total_votes': 19895}
+{'area': 'hyndburn', 'total_votes': 19650}
+{'area': 'aberdeen north', 'total_votes': 19629}
+{'area': 'battesea', 'total_votes': 19625}
+{'area': 'hackney north and stoke newington', 'total_votes': 19481}
+{'area': 'slough', 'total_votes': 19283}
+{'area': 'hornsey and wood green', 'total_votes': 19278}
+{'area': 'keighley', 'total_votes': 18898}
+{'area': 'bradford south', 'total_votes': 18850}
+{'area': 'leicester north west', 'total_votes': 18771}
+{'area': 'derby south', 'total_votes': 18466}
+{'area': 'bristol east', 'total_votes': 18366}
+{'area': 'swansea west', 'total_votes': 18307}
+{'area': 'corby', 'total_votes': 18164}
+{'area': 'chorley', 'total_votes': 18019}
+{'area': 'gravesham', 'total_votes': 18000}
+{'area': 'westminster north', 'total_votes': 17951}
+{'area': 'norwich south', 'total_votes': 17754}
+{'area': 'peterborough', 'total_votes': 17342}
+{'area': 'fife central', 'total_votes': 17305}
+{'area': 'putney', 'total_votes': 17034}
+{'area': 'carmarthen', 'total_votes': 16833}
+{'area': 'warrington south', 'total_votes': 16678}
+{'area': 'dover', 'total_votes': 16638}
+{'area': 'newcastle upon tyne central', 'total_votes': 16410}
+{'area': 'paisley north', 'total_votes': 16221}
+{'area': 'pembroke', 'total_votes': 15982}
+{'area': 'paisley south', 'total_votes': 15904}
+{'area': 'nuneaton', 'total_votes': 15605}
+{'area': 'lewisham east', 'total_votes': 15529}
+{'area': 'halesowen and stourbridge', 'total_votes': 15193}
+{'area': 'gloucester', 'total_votes': 15177}
+{'area': 'enfield north', 'total_votes': 14060}
+{'area': 'cardiff west', 'total_votes': 14050}
+{'area': 'exeter', 'total_votes': 13867}
+{'area': 'dulwich', 'total_votes': 13802}
+{'area': 'fulham', 'total_votes': 13692}
+{'area': 'walthamstow', 'total_votes': 13665}
+{'area': 'hammersmith', 'total_votes': 13645}
+{'area': 'milton keynes', 'total_votes': 13529}
+{'area': 'loughborough', 'total_votes': 13467}
+{'area': 'dunfermline west', 'total_votes': 13319}
+{'area': 'edinburgh south', 'total_votes': 13274}
+{'area': 'stockport', 'total_votes': 13100}
+{'area': 'newark', 'total_votes': 12514}
+{'area': 'hornchurch', 'total_votes': 12426}
+{'area': 'warwick and leamington', 'total_votes': 12148}
+{'area': 'shipley', 'total_votes': 11739}
+{'area': 'leeds north west', 'total_votes': 11430}
+{'area': 'edinburgh pentlands', 'total_votes': 11077}
+{'area': 'bromsgrove', 'total_votes': 10996}
+{'area': 'bristol west', 'total_votes': 10968}
+{'area': 'croydon north west', 'total_votes': 9847}
+{'area': 'kensington', 'total_votes': 9822}
+{'area': 'reading east', 'total_votes': 9737}
+{'area': 'wimbledon', 'total_votes': 9523}
+{'area': 'carshalton and wallington', 'total_votes': 9403}
+{'area': 'oxford west and abingdon', 'total_votes': 8984}
+{'area': 'canterbury', 'total_votes': 8868}
+{'area': 'northavon', 'total_votes': 8742}
+{'area': 'epping forest', 'total_votes': 8741}
+{'area': 'altrincham and sale', 'total_votes': 8313}
+{'area': 'bridlington', 'total_votes': 8173}
+{'area': 'birmingham edgbaston', 'total_votes': 8163}
+{'area': 'rushcliffe', 'total_votes': 7808}
+{'area': 'chingford', 'total_votes': 7718}
+{'area': 'bath', 'total_votes': 7700}
+{'area': 'ceredigion and pembroke north', 'total_votes': 7271}
+{'area': 'chipping barnet', 'total_votes': 7151}
+{'area': 'reigate', 'total_votes': 7143}
+{'area': 'harborough', 'total_votes': 7087}
+{'area': 'crosby', 'total_votes': 7026}
+{'area': 'plymouth sutton', 'total_votes': 7008}
+{'area': 'rutland and melton', 'total_votes': 6946}
+{'area': 'huntingdon', 'total_votes': 6761}
+{'area': 'ashford', 'total_votes': 6736}
+{'area': 'westbury', 'total_votes': 6667}
+{'area': 'city of london and westminster south', 'total_votes': 6432}
+{'area': 'horsham', 'total_votes': 5924}
+{'area': 'wanstead and woodford', 'total_votes': 5810}
+{'area': 'st ives', 'total_votes': 5749}
+{'area': 'surbiton', 'total_votes': 5724}
+{'area': 'westmorland and lonsdale', 'total_votes': 5603}
+{'area': 'lewes', 'total_votes': 5465}
+{'area': 'kingston upon thames', 'total_votes': 5267}
+{'area': 'worcestershire south', 'total_votes': 5049}
+{'area': 'cheltenham', 'total_votes': 4869}
+{'area': 'chichester', 'total_votes': 4833}
+{'area': 'south hams', 'total_votes': 4342}
+{'area': 'bournemouth east', 'total_votes': 4299}
+{'area': 'gainsborough and horncastle', 'total_votes': 4165}
+{'area': 'twickenham', 'total_votes': 4156}
+{'area': 'hereford', 'total_votes': 4153}
+{'area': 'bexhill and battle', 'total_votes': 4125}
+{'area': 'angus east', 'total_votes': 3736}
+{'area': 'wiltshire north', 'total_votes': 3566}
+{'area': 'devon north', 'total_votes': 3562}
+{'area': 'cornwall south east', 'total_votes': 2844}
+{'area': 'fife north east', 'total_votes': 2671}
+{'area': 'leominster', 'total_votes': 2600}
+
+3.
+Which party gained the highest total number of votes, summed across all constituencies?
+con
+
+4.
+What was the smallest difference between the votes cast for the first and second candidates, and in which constituency?
+{'area': 'leicester south', 'difference': 7}
+
+5.
+In which constituencies were the votes received by a Labour party (“lab”) candidate more than 30% of the total number of voters registered for that constituency?
+{'area': 'aberavon'}
+{'area': 'aberdeen north'}
+{'area': 'alyn and deeside'}
+{'area': 'ashfield'}
+{'area': 'ashton under lyne'}
+{'area': 'barnsley central'}
+{'area': 'barnsley east'}
+{'area': 'barnsley west and penistone'}
+{'area': 'bassetlaw'}
+{'area': 'birkenhead'}
+{'area': 'birmingham hodge hill'}
+{'area': 'birmingham ladywood'}
+{'area': 'birmingham perry barr'}
+{'area': 'birmingham small heath'}
+{'area': 'birmingham sparkbrook'}
+{'area': 'bishop auckland'}
+{'area': 'blackburn'}
+{'area': 'blaenau gwent'}
+{'area': 'blaydon'}
+{'area': 'blyth valley'}
+{'area': 'bolsover'}
+{'area': 'bolton south east'}
+{'area': 'bootle'}
+{'area': 'brent south'}
+{'area': 'bury north'}
+{'area': 'caerphilly'}
+{'area': 'cannock and burntwood'}
+{'area': 'carrick cumnock and doone valley'}
+{'area': 'chesterfield'}
+{'area': 'clackmannan'}
+{'area': 'clydebank and milngavie'}
+{'area': 'clydesdale'}
+{'area': 'copeland'}
+{'area': 'coventry north east'}
+{'area': 'coventry north west'}
+{'area': 'crewe and nantwich'}
+{'area': 'cumberland and kilsyth'}
+{'area': 'cunninghame south'}
+{'area': 'cynon valley'}
+{'area': 'denton and reddish'}
+{'area': 'derbyshire north east'}
+{'area': 'don valley'}
+{'area': 'doncaster central'}
+{'area': 'doncaster north'}
+{'area': 'dudley east'}
+{'area': 'dundee west'}
+{'area': 'dunfermline east'}
+{'area': 'durham north'}
+{'area': 'durham north west'}
+{'area': 'ealing southall'}
+{'area': 'easington'}
+{'area': 'east lothian'}
+{'area': 'eccles'}
+{'area': 'edinburgh east'}
+{'area': 'falkirk east'}
+{'area': 'falkirk west'}
+{'area': 'fife central'}
+{'area': 'gateshead east'}
+{'area': 'glanford and scunthorpe'}
+{'area': 'glasgow cathcart'}
+{'area': 'glasgow central'}
+{'area': 'glasgow garscadden'}
+{'area': 'glasgow govan'}
+{'area': 'glasgow maryhill'}
+{'area': 'glasgow pollok'}
+{'area': 'glasgow provan'}
+{'area': 'glasgow rutherglen'}
+{'area': 'glasgow shettleston'}
+{'area': 'glasgow springburn'}
+{'area': 'gower'}
+{'area': 'greenock and port glasgow'}
+{'area': 'halton'}
+{'area': 'hamilton'}
+{'area': 'hartlepool'}
+{'area': 'hemsworth'}
+{'area': 'heywood and middleton'}
+{'area': 'houghton and washington'}
+{'area': 'hull east'}
+{'area': 'hull north'}
+{'area': 'hyndburn'}
+{'area': 'ipswich'}
+{'area': 'islwyn'}
+{'area': 'jarrow'}
+{'area': 'keighley'}
+{'area': 'kilmarnock and loudoun'}
+{'area': 'knowsley north'}
+{'area': 'knowsley south'}
+{'area': 'leeds south and morley'}
+{'area': 'leicester west'}
+{'area': 'leigh'}
+{'area': 'linlithgow'}
+{'area': 'liverpool garston'}
+{'area': 'liverpool riverside'}
+{'area': 'liverpool walton'}
+{'area': 'liverpool west derby'}
+{'area': 'llanelli'}
+{'area': 'makerfield'}
+{'area': 'manchester blackley'}
+{'area': 'manchester central'}
+{'area': 'manchester gorton'}
+{'area': 'manchester wythenshawe'}
+{'area': 'mansfield'}
+{'area': 'merthyr tydfil and rhymney'}
+{'area': 'middlesbrough'}
+{'area': 'midlothian'}
+{'area': 'monklands east'}
+{'area': 'monklands west'}
+{'area': 'motherwell north'}
+{'area': 'motherwell south'}
+{'area': 'neath'}
+{'area': 'newcastle under lyme'}
+{'area': 'newcastle upon tyne east'}
+{'area': 'newport east'}
+{'area': 'normanton'}
+{'area': 'ogmore'}
+{'area': 'oldham west'}
+{'area': 'paisley north'}
+{'area': 'pontefract and castleford'}
+{'area': 'pontypridd'}
+{'area': 'preston'}
+{'area': 'rhondda'}
+{'area': 'rother valley'}
+{'area': 'rotherham'}
+{'area': 'sedgefield'}
+{'area': 'sheffield attercliffe'}
+{'area': 'sheffield brightside'}
+{'area': 'sheffield central'}
+{'area': 'sheffield heeley'}
+{'area': 'sheffield hillsborough'}
+{'area': 'sherwood'}
+{'area': 'st helens north'}
+{'area': 'st helens south'}
+{'area': 'stalybridge and hyde'}
+{'area': 'stoke on trent central'}
+{'area': 'stoke on trent north'}
+{'area': 'stoke on trent south'}
+{'area': 'sunderland south'}
+{'area': 'swansea east'}
+{'area': 'swansea west'}
+{'area': 'swindon'}
+{'area': 'torfaen'}
+{'area': 'tyne bridge'}
+{'area': 'wallsend'}
+{'area': 'walsall north'}
+{'area': 'walsall south'}
+{'area': 'wansbeck'}
+{'area': 'warley west'}
+{'area': 'warrington north'}
+{'area': 'warwickshire north'}
+{'area': 'wentworth'}
+{'area': 'west bromwich west'}
+{'area': 'wigan'}
+{'area': 'workington'}
+{'area': 'worsley'}
+{'area': 'wrekin the'}
